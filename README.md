@@ -38,4 +38,7 @@ Contracts:
 
 # Demo images:
 
-<img src="aaaa" width="100%">
+![image](https://github.com/keyllli223/ShibaVillage/assets/84118397/5d2aeb57-229f-4513-80dc-7402d979450b)
+
+![image](https://github.com/keyllli223/ShibaVillage/assets/84118397/1fefb2ac-b678-47d3-84ff-fc7776b52e2b)
+
