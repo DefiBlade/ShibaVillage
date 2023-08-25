@@ -17,7 +17,15 @@
 - Connection to Shibarium Testnet using Metamask;
 - Multiple scenes: Village, Personal Home
 - Option to customize your home (Upload new NFTs and place them on the walls of your home). You can replace them anytime with another.
+
+------
+
+
+# Future plans / to do:
+- Multiplayer feature;
 - Option to buy from "Market" different kind of thinks for your home.
+- Acces the home of another users;
+- Adding sounds;
 - and more soon.
 
 ------
