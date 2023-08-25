@@ -12,6 +12,12 @@
 
 ------
 
+Contracts:
+- ShibariumNFTs: https://puppyscan.shib.io/address/0xd029E1FCd2c245D50fE390E715205aD88a26C43e
+- ShibatiumHome: https://puppyscan.shib.io/address/0x807b76383ab4634E451AC037c401a55Dd4188666
+  
+------
+
 # Features:
 - Access the 3D Metaverse of Shibarium Village from browser;
 - Connection to Shibarium Testnet using Metamask;
