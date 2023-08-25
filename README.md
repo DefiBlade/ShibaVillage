@@ -8,7 +8,7 @@
 ====================================
 
 - Video demo: TBD
-- Live demo app: TBD
+- Live demo app: https://shibarium-village.netlify.app/
 
 ------
 
