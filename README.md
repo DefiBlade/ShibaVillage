@@ -42,3 +42,5 @@ Contracts:
 
 ![image](https://github.com/keyllli223/ShibaVillage/assets/84118397/1fefb2ac-b678-47d3-84ff-fc7776b52e2b)
 
+![image](https://github.com/keyllli223/ShibaVillage/assets/84118397/6306f2bb-0711-452b-8ac9-b7df55e482ef)
+
