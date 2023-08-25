@@ -15,7 +15,10 @@
 Contracts:
 - ShibariumNFTs: https://puppyscan.shib.io/address/0xd029E1FCd2c245D50fE390E715205aD88a26C43e
 - ShibatiumHome: https://puppyscan.shib.io/address/0x807b76383ab4634E451AC037c401a55Dd4188666
-  
+
+
+  ![image](https://github.com/keyllli223/ShibaVillage/assets/84118397/92112d52-ed11-4b69-877d-3a8c2d3589af)
+
 ------
 
 # Features:
