@@ -7,7 +7,7 @@
 
 ====================================
 
-- Video demo: TBD
+- Video demo: https://www.youtube.com/watch?v=4gds2YVbLMU
 - Live demo app: https://shibarium-village.netlify.app/
 
 ------
